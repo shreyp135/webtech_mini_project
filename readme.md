@@ -16,8 +16,3 @@ A simple web-based quiz application with timer and result calculation.
 
 ## How to Run
 Open index.html in your browser.
-
-## Future Improvements
-- Add backend for storing results
-- User login system
-- More quiz categories
